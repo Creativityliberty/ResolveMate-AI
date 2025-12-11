@@ -1,0 +1,7 @@
+{
+  "name": "ResolveMate AI",
+  "description": "A specialized training platform for customer support agents to practice crisis management, empathy, and ticket resolution against realistic AI personas.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
